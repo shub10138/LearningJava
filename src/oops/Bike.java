@@ -5,7 +5,7 @@ public class Bike {
 	int gear;
 	int hidingField = 10;
 
-	public Bike(int speed, int gear) {
+	Bike(int speed, int gear) {
 		this.speed = speed;
 		this.gear = gear;
 	}
